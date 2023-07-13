@@ -1,2 +1,2 @@
-# tiptap-example-2023-07-13
+# tiptap-react
 Created with CodeSandbox
